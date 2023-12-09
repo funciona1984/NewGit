@@ -1,4 +1,4 @@
-com.solana.unity_sdk@0.1.7
+com.solana.unity_sdk@1.2.0
 com.unity.adaptiveperformance@5.0.1
 com.unity.ads@4.4.2
 com.unity.collab-proxy@2.0.4
